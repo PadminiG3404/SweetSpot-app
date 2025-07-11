@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Black Forest",
+    "price": "$28",
+    "image": "/images/black_forest.webp",
+    "description": "A decadent German classic featuring layers of rich chocolate sponge, airy whipped cream, and juicy cherries, topped with chocolate shavings and cherry glaze.",
+    "ingredients": ["Dark Chocolate", "Whipped Cream", "Cherries", "Cocoa Powder", "Flour", "Sugar", "Eggs", "Butter", "Vanilla Extract"]
+  },
+  {
+    "id": 2,
+    "name": "Blue Berry Bliss",
+    "price": "$26",
+    "image": "/images/blue_berry_bliss.jpg",
+    "description": "A moist vanilla cake layered with fresh blueberry compote and light cream, offering a fruity burst in every bite.",
+    "ingredients": ["Blueberries", "Vanilla Extract", "Fresh Cream", "Eggs", "Butter", "Flour", "Sugar", "Lemon Zest"]
+  },
+  {
+    "id": 3,
+    "name": "Chocolate Truffle",
+    "price": "$25",
+    "image": "/images/chocolate_truffle.jpg",
+    "description": "A dense and luxurious chocolate cake layered with silky smooth ganache and finished with a rich chocolate glaze.",
+    "ingredients": ["Dark Chocolate", "Heavy Cream", "Butter", "Flour", "Eggs", "Cocoa Powder", "Sugar", "Baking Powder"]
+  },
+  {
+    "id": 4,
+    "name": "Coffee Crème",
+    "price": "$27",
+    "image": "/images/coffee_creme.webp",
+    "description": "A delightful coffee-infused sponge paired with layers of espresso buttercream and a hint of cocoa, perfect for coffee lovers.",
+    "ingredients": ["Brewed Coffee", "Espresso Powder", "Butter", "Cream", "Eggs", "Flour", "Sugar", "Vanilla"]
+  },
+  {
+    "id": 5,
+    "name": "Hazelnut Heaven",
+    "price": "$29",
+    "image": "/images/hazelnut_heaven.webp",
+    "description": "A nutty indulgence with layers of hazelnut praline, chocolate cream, and crunchy roasted hazelnuts.",
+    "ingredients": ["Hazelnuts", "Chocolate Ganache", "Butter", "Cream", "Eggs", "Flour", "Sugar", "Praline Paste"]
+  },
+  {
+    "id": 6,
+    "name": "Lemon Zest",
+    "price": "$21",
+    "image": "/images/lemon_zest.jpg",
+    "description": "A refreshing and tangy lemon sponge cake topped with creamy lemon glaze and fresh zest for a zippy finish.",
+    "ingredients": ["Lemon Juice", "Lemon Zest", "Flour", "Eggs", "Butter", "Sugar", "Baking Powder", "Vanilla"]
+  },
+  {
+    "id": 7,
+    "name": "Mango Mousse",
+    "price": "$23",
+    "image": "/images/mango_mousse.jpg",
+    "description": "A light and airy mango mousse gently set on a soft vanilla sponge base, bursting with tropical flavor.",
+    "ingredients": ["Fresh Mango Pulp", "Gelatin", "Cream", "Sugar", "Vanilla Sponge", "Condensed Milk"]
+  },
+  {
+    "id": 8,
+    "name": "Pineapple Paradise",
+    "price": "$24",
+    "image": "/images/pineapple_paradise.jpg",
+    "description": "Fluffy sponge layers filled with juicy pineapple chunks and whipped cream, giving a tropical escape in every bite.",
+    "ingredients": ["Pineapple Chunks", "Pineapple Juice", "Whipped Cream", "Eggs", "Flour", "Sugar", "Vanilla"]
+  },
+  {
+    "id": 9,
+    "name": "Rainbow Fantasy",
+    "price": "$32",
+    "image": "/images/rainbow_fantasy.jpeg",
+    "description": "A vibrant celebration of colors with six layers of soft vanilla sponge, each a different hue, layered with velvety vanilla frosting.",
+    "ingredients": ["Food Coloring", "Vanilla Extract", "Cream", "Butter", "Flour", "Eggs", "Sugar", "Milk"]
+  },
+  {
+    "id": 10,
+    "name": "Red Velvet",
+    "price": "$30",
+    "image": "/images/red_velvet.jpg",
+    "description": "A rich and smooth red velvet cake layered with tangy cream cheese frosting and a hint of cocoa.",
+    "ingredients": ["Cocoa Powder", "Buttermilk", "Red Food Color", "Cream Cheese", "Butter", "Eggs", "Flour", "Sugar", "Vanilla"]
+  },
+  {
+    "id": 11,
+    "name": "Strawberry Swirl",
+    "price": "$22",
+    "image": "/images/strawberry_swirl.jpg",
+    "description": "Swirls of real strawberry puree blend into soft vanilla cream layers, creating a sweet and fruity treat.",
+    "ingredients": ["Fresh Strawberries", "Strawberry Puree", "Whipping Cream", "Sugar", "Vanilla", "Eggs", "Flour"]
+  },
+  {
+    "id": 12,
+    "name": "Vanilla Delight",
+    "price": "$20",
+    "image": "/images/vanilla_delight.jpg",
+    "description": "A timeless classic made with soft vanilla sponge and a generous topping of whipped cream, simple yet satisfying.",
+    "ingredients": ["Vanilla Extract", "Whipped Cream", "Eggs", "Flour", "Sugar", "Butter", "Milk"]
+  }
+]
